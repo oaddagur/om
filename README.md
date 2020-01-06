@@ -1,2 +1,3 @@
 # om
-i has precious information
+i doesnot has precious information
+i did many changes in the code
